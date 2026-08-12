@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-anthropic
+langchain-mcp-adapters
+mcp
+requests
+gradio
